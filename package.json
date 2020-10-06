@@ -1,0 +1,23 @@
+{
+  "name": "demo-testing",
+  "version": "1.0.0",
+  "description": "BootsrapUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BootstrapUI/demo-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BootstrapUI/demo-testing/issues"
+  },
+  "homepage": "https://github.com/BootstrapUI/demo-testing#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
